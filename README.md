@@ -1,56 +1,91 @@
-# 💫 About Me:
-Hi there, I'm Amith 👋<br>I'm a Software Engineer Intern at Irusri, a Sweden-based software development company, and a 3rd-year BScHons (IT) undergraduate at the University of Moratuwa, Sri Lanka. Passionate about web development, cybersecurity, and UI/UX design, I enjoy building scalable applications and solving real-world problems.<br><br>🚀 Let’s build something awesome together!<br><br>📫 Reach me at malingaamith1@gmail.com
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-## 🌐 Socials:
-<p align="center">
-  <a href="https://discord.gg/amithmalinga"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a>
-  <a href="https://www.facebook.com/amith.malinga.35"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/amith_malinga/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/amith-malinga/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-  <a href="https://medium.com/@amithmalinga"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/></a>
-  <a href="mailto:malingaamith1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
-</p>
+# Hi Geeks, I'm Amith Malinga <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-# 💻 Tech Stack:
-<p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000¢er=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!;Full-Stack+Developer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</div>
 
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmithMalinga&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmithMalinga&theme=shadow_green&hide_border=false"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmithMalinga&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AmithMalinga&theme=github-green"/>
-</p>
+## 🚀 About Me
+- 🌍 Based in Sri Lanka
+- 💻 Full-Stack Developer with a passion for coding and innovation
+- 🎯 Currently working on Irusri Group AB projects
+- 🌱 Learning AWS
+- 📫 Reach me at: malingaamith1@gmail.com
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmithMalinga&theme=prussian&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
+## 🛠️ Tech Stack
 
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AmithMalinga&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" title="Java" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" title="Python" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="50" height="50" title="C++" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" title="JavaScript" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" title="React" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" title="MySQL" />
+</div>
 
----
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=AmithMalinga&icon=0&color=11"/>
+<div align="center">  
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" title="Docker" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" title="AWS" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" title="GitHub" />
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="50" height="50" title="C#" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="50" height="50" title="REST API" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="50" height="50" title="Nginx" />
+</div>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50" title="Kubernetes" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" title="TypeScript" />
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="50" height="50" title="Redux" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="50" height="50" title="GraphQL" />
+  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="SASS" width="50" height="50" title="SASS" />
+</div>
+
+## 📊 Current Stats
+
+<div align="center">
+  <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=AmithMalinga&show_icons=true&theme=gotham" alt="GitHub Stats" />
+  <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=AmithMalinga&theme=gotham&layout=compact" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmithMalinga&theme=gotham" alt="GitHub Streak" />
+</div>
+
+## 🌟 Skills Progress
+
+<div align="center">
+  Java: <progress value="90" max="100"></progress> 90%<br>
+  Python: <progress value="85" max="100"></progress> 85%<br>
+  React: <progress value="80" max="100"></progress> 80%<br>
+  Docker: <progress value="75" max="100"></progress> 75%<br>
+  AWS: <progress value="70" max="100"></progress> 70%
+</div>
+
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/[your-linkedin]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
+  <a href="https://twitter.com/[your-twitter]" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:[your-email]" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/AmithMalinga" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏆 GitHub Contributions
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AmithMalinga&theme=onedark&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+## 🎨 Fun Fact
+- I’m a coffee enthusiast ☕ and a night owl 🌙 who codes best under neon lights!
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
