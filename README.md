@@ -16,63 +16,37 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" title="Java" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" title="Python" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="50" height="50" title="C++" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" title="JavaScript" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" title="React" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" title="MySQL" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" title="Java" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" title="Python" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" height="50" title="C++" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" title="JavaScript" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" height="50" title="TypeScript" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" title="React" />
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="50" height="50" title="Redux" />
+  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="50" height="50" title="Node.js" />
+  <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="50" height="50" title="MongoDB" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" title="MySQL" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="50" height="50" title="GraphQL" />
 </div>
 
 <div align="center">  
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" title="Docker" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" title="AWS" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" title="GitHub" />
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="50" height="50" title="C#" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="50" height="50" title="REST API" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="50" height="50" title="Nginx" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" title="Docker" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" height="50" title="Kubernetes" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" title="AWS" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="50" height="50" title="Nginx" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" title="GitHub" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50" height="50" title="REST API" />
 </div>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50" title="Kubernetes" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" title="TypeScript" />
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="50" height="50" title="Redux" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="50" height="50" title="GraphQL" />
-  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="SASS" width="50" height="50" title="SASS" />
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="50" height="50" title="C#" />
+  <img src="https://techstack-generator.vercel.app/dotnet-icon.svg" width="50" height="50" title=".NET Core" />
+  <img src="https://techstack-generator.vercel.app/tailwind-icon.svg" width="50" height="50" title="Tailwind CSS" />
+  <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="50" height="50" title="SASS" />
+  <img src="https://techstack-generator.vercel.app/html-icon.svg" width="50" height="50" title="HTML5" />
+  <img src="https://techstack-generator.vercel.app/css-icon.svg" width="50" height="50" title="CSS3" />
 </div>
 
-## 🌟 Skills Progress
-
-<div align="center">
-  Java: <progress value="90" max="100"></progress> 90%<br>
-  Python: <progress value="85" max="100"></progress> 85%<br>
-  React: <progress value="80" max="100"></progress> 80%<br>
-  Docker: <progress value="75" max="100"></progress> 75%<br>
-  AWS: <progress value="70" max="100"></progress> 70%
-</div>
-
-## 🌐 Connect with Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/[your-linkedin]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/[your-twitter]" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:[your-email]" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/AmithMalinga" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
-## 🏆 GitHub Contributions
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmithMalinga&theme=onedark&margin-w=15" alt="GitHub Trophies" />
-</div>
 
 ## 🎨 Fun Fact
 - I’m a coffee enthusiast ☕ and a night owl 🌙 who codes best under neon lights!
