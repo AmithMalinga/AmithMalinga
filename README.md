@@ -41,17 +41,6 @@
   <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="SASS" width="50" height="50" title="SASS" />
 </div>
 
-## 📊 Current Stats
-
-<div align="center">
-  <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=AmithMalinga&show_icons=true&theme=gotham" alt="GitHub Stats" />
-  <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=AmithMalinga&theme=gotham&layout=compact" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmithMalinga&theme=gotham" alt="GitHub Streak" />
-</div>
-
 ## 🌟 Skills Progress
 
 <div align="center">
